@@ -1,6 +1,6 @@
 # Free Code Camp Repositories
 
-This is an index of all Free Code Camp repositories I have completed. Several of these projects may have been updated since its first installment.
+This is an index of all Free Code Camp repositories I have completed, including additional coding challenges and code snippets. Several of these projects may have been updated since its first installment.
 
 ---
 
@@ -16,3 +16,21 @@ This is an index of all Free Code Camp repositories I have completed. Several of
 ### JavaScript Algorithms and Data Structures Certification
 
 ### Front End Libraries Certification
+
+---
+
+## Coding Challenges
+
+- [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript): _In Progress_
+- [100 Days of Code](https://twitter.com/DanyChheang/status/1307419775992201221?s=20): _Live Tweets In Progress_
+
+---
+
+## JavaScript Code Snippets
+
+- [Comparison Operators](https://trello.com/c/neN9NBrL)
+- [Conditional Statements](https://trello.com/c/WwEzFBbT)
+- [Nesting Conditionals](https://trello.com/c/NM3EB1e8)
+- [Logical Operators](https://trello.com/c/hSvqQsrI)
+- [Switch Statements](https://trello.com/c/eGvlDr71)
+- [Ternary Operators](https://trello.com/c/0omAm8zy)
