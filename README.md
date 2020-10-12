@@ -1,6 +1,6 @@
-# Free Code Camp Repositories
+# Master Repository Index
 
-This is an index of all Free Code Camp repositories I have completed, including additional coding challenges and code snippets. Several of these projects may have been updated since its first installment.
+This is an index of all repositories I have completed, including additional coding challenges and code snippets. Several of these projects may have been updated since its first installment.
 
 ---
 
@@ -14,6 +14,7 @@ This is an index of all Free Code Camp repositories I have completed, including 
 - [Build a Technical Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page): [_HTML Documentation Page_](https://github.com/dcc5235/HTML_TechnicalDoc)
 
 ### JavaScript Algorithms and Data Structures Certification
+_In Progress_
 
 ### Front End Libraries Certification
 
@@ -21,7 +22,7 @@ This is an index of all Free Code Camp repositories I have completed, including 
 
 ## Coding Challenges
 
-- [30 Days of JavaScript](https://github.com/wesbos/JavaScript30#readme): _In Progress_
+- [30 Days of JavaScript](https://github.com/dcc5235/EDM_JavaScript30): _In Progress_
 - [100 Days of Code](https://twitter.com/DanyChheang/status/1307419775992201221?s=20): _Live Tweets In Progress_
 
 ---
