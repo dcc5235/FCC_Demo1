@@ -14,9 +14,17 @@ This is an index of all repositories I have completed, including additional codi
 - [Build a Technical Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page): [_HTML Documentation Page_](https://github.com/dcc5235/HTML_TechnicalDoc)
 
 ### JavaScript Algorithms and Data Structures Certification
-_In Progress_
+- Basic JavaScript
+- ES6
+- Regular Expressions
+- Basic Data Structures
+- Basic Alogirthm Scripting
+- Object Oriented Programming
+- Functional Programming
+- Intermediate Algorithm Scripting
 
 ### Front End Libraries Certification
+_In Progress_
 
 ---
 
@@ -37,3 +45,4 @@ Some code snippets may be set to private.
 - [Switch Statements](https://trello.com/c/eGvlDr71)
 - [Ternary Operators](https://trello.com/c/0omAm8zy)
 - [Loops](https://trello.com/c/vVa7H8Ry)
+- [Functions](https://trello.com/c/I2xoUAdL/37-simple-function)
