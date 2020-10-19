@@ -36,9 +36,8 @@ _In Progress_
 ---
 
 ## JavaScript Code Snippets
-Some code snippets may be set to private.
+Some code snippets may be set to private. 
 
-- [Comparison Operators](https://trello.com/c/neN9NBrL)
 - [Conditional Statements](https://trello.com/c/WwEzFBbT)
 - [Nesting Conditionals](https://trello.com/c/NM3EB1e8)
 - [Logical Operators](https://trello.com/c/hSvqQsrI)
