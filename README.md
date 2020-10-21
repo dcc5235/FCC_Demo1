@@ -1,6 +1,6 @@
 # Master Repository Index
 
-This is an index of all repositories I have completed, including additional coding challenges and code snippets. Several of these projects may have been updated since its first installment.
+This is an index of all repositories I have completed, including additional coding challenges and demos. Several of these projects may have been updated since its first installment.
 
 ---
 
@@ -35,13 +35,12 @@ _In Progress_
 
 ---
 
-## JavaScript Code Snippets
-Some code snippets may be set to private. 
+## Demo Pages & Side Projects
+Specifically created to test various languages. If there are projects created after testing phase, it will be linked in the Readme.
 
-- [Conditional Statements](https://trello.com/c/WwEzFBbT)
-- [Nesting Conditionals](https://trello.com/c/NM3EB1e8)
-- [Logical Operators](https://trello.com/c/hSvqQsrI)
-- [Switch Statements](https://trello.com/c/eGvlDr71)
-- [Ternary Operators](https://trello.com/c/0omAm8zy)
-- [Loops](https://trello.com/c/vVa7H8Ry)
-- [Functions](https://trello.com/c/I2xoUAdL/37-simple-function)
+- [Bootstrap](https://github.com/dcc5235/Bootstrap_Demo1)
+- [CSS Grids](https://github.com/dcc5235/CSS_Grid_Demo1)
+- [Flexbox](https://github.com/dcc5235/Flexbox_Demo1)
+- [JavaScript](https://github.com/dcc5235/JS_Demo1)
+- [Landing Page](https://github.com/dcc5235/Landing_Page_Demo1)
+
