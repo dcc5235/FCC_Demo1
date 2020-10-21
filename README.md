@@ -13,7 +13,7 @@ This is an index of all repositories I have completed, including additional codi
 - [Build a Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page): [_Natural Suds Soap Landing Page_](https://github.com/dcc5235/Soap_Landing)
 - [Build a Technical Documentation Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page): [_HTML Documentation Page_](https://github.com/dcc5235/HTML_TechnicalDoc)
 
-### JavaScript Algorithms and Data Structures Certification
+### JavaScript Algorithms and Data Structures [Certification](https://freecodecamp.org/certification/fcc25a75f69-d7ef-4f3f-a4bd-27119d57c426/javascript-algorithms-and-data-structures)
 - Basic JavaScript
 - ES6
 - Regular Expressions
