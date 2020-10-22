@@ -24,7 +24,13 @@ This is an index of all repositories I have completed, including additional codi
 - Intermediate Algorithm Scripting
 
 ### Front End Libraries Certification
+- Sass
+
 _In Progress_
+- Bootstrap
+- jQuery
+- React
+- Redux
 
 ---
 
