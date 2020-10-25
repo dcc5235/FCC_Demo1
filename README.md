@@ -24,7 +24,7 @@ This is an index of all repositories I have completed, including additional codi
 - Intermediate Algorithm Scripting
 
 ### Front End Libraries Certification
-- Sass
+- [Sass](https://github.com/dcc5235/Childcare_Landing)
 
 _In Progress_
 - Bootstrap
