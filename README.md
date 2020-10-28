@@ -24,7 +24,7 @@ This is an index of all repositories I have completed, including additional codi
 - Intermediate Algorithm Scripting
 
 ### Front End Libraries Certification
-- [Sass](https://github.com/dcc5235/Childcare_Landing)
+- Sass
 
 _In Progress_
 - Bootstrap
@@ -42,6 +42,7 @@ _In Progress_
 ---
 
 ## Demo Pages & Side Projects
+Demo Pages
 Specifically created to test various languages. If there are projects created after testing phase, it will be linked in the Readme.
 
 - [Bootstrap](https://github.com/dcc5235/Bootstrap_Demo1)
@@ -49,4 +50,10 @@ Specifically created to test various languages. If there are projects created af
 - [Flexbox](https://github.com/dcc5235/Flexbox_Demo1)
 - [JavaScript](https://github.com/dcc5235/JS_Demo1)
 - [Landing Page](https://github.com/dcc5235/Landing_Page_Demo1)
+
+Large Side Projects
+
+- [Sass](https://github.com/dcc5235/Childcare_Landing)
+- [JavaScript & API]
+
 
