@@ -46,14 +46,13 @@ Demo Pages
 Specifically created to test various languages. If there are projects created after testing phase, it will be linked in the Readme.
 
 - [Bootstrap](https://github.com/dcc5235/Bootstrap_Demo1)
-- [CSS Grids](https://github.com/dcc5235/CSS_Grid_Demo1)
-- [Flexbox](https://github.com/dcc5235/Flexbox_Demo1)
 - [JavaScript](https://github.com/dcc5235/JS_Demo1)
 - [Landing Page](https://github.com/dcc5235/Landing_Page_Demo1)
 
-Large Side Projects
+Side Projects
 
 - [Sass](https://github.com/dcc5235/Childcare_Landing)
-- [JavaScript & API]
-
+- [JavaScript & API](https://github.com/dcc5235/Waves_SoundBytes): _in progress_
+- [CSS Grids](https://github.com/dcc5235/Grid_Homes)
+- [Flexbox](https://github.com/dcc5235/Flex_Reviews)
 
