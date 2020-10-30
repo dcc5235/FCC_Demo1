@@ -1,3 +1,5 @@
+![](https://images.pexels.com/photos/4439419/pexels-photo-4439419.jpeg?cs=srgb&dl=pexels-vie-studio-4439419.jpg&fm=jpg)
+
 # Master Repository Index
 
 This is an index of all repositories I have completed, including additional coding challenges and demos. Several of these projects may have been updated since its first installment.
@@ -52,7 +54,7 @@ Specifically created to test various languages. If there are projects created af
 Side Projects
 
 - [Sass](https://github.com/dcc5235/Childcare_Landing)
-- [JavaScript & API](https://github.com/dcc5235/Waves_SoundBytes): _in progress_
 - [CSS Grids](https://github.com/dcc5235/Grid_Homes)
 - [Flexbox](https://github.com/dcc5235/Flex_Reviews)
+- [JavaScript & API](https://github.com/dcc5235/Waves_SoundBytes): _in progress_
 
