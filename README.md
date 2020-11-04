@@ -43,19 +43,21 @@ _In Progress_
 
 ---
 
-## Demo Pages & Side Projects
-Demo Pages
-Specifically created to test various languages. If there are projects created after testing phase, it will be linked in the Readme.
+## Side Projects
 
-- [Bootstrap](https://github.com/dcc5235/Bootstrap_Demo1)
-- [JavaScript](https://github.com/dcc5235/JS_Demo1)
-- [Landing Page](https://github.com/dcc5235/Landing_Page_Demo1)
-- [API](https://github.com/dcc5235/API_Demo1)
-
-Side Projects
-
-- [Sass](https://github.com/dcc5235/Childcare_Landing)
+- API
+  - [Recipe Finder](https://github.com/dcc5235/API_Demo1)
+  - [Music Search](https://github.com/dcc5235/Waves_SoundBytes): _in progress_
+- Bootstrap & jQuery
 - [CSS Grids](https://github.com/dcc5235/Grid_Homes)
 - [Flexbox](https://github.com/dcc5235/Flex_Reviews)
-- [JavaScript & API](https://github.com/dcc5235/Waves_SoundBytes): _in progress_
-
+- JavaScript
+  - [_To-Do List_](https://github.com/dcc5235/Todo_List)
+  - [_NBA Scores Chart_](https://github.com/dcc5235/NBA_Scores_Chart)
+  - [_World's Most Annoying Button_](https://github.com/dcc5235/Impossible_Button)
+  - [_Color Picker_](https://github.com/dcc5235/Color_Picker)
+  - [_Coin Game_](https://github.com/dcc5235/Coin_Game)
+- Paired Programming
+- React
+- [Sass](https://github.com/dcc5235/Childcare_Landing)
+- Tailwind
