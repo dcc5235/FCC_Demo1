@@ -2,7 +2,7 @@
 
 # Master Repository Index
 
-This is an index of all repositories I have completed, including additional coding challenges and demos. Several of these projects may have been updated since its first installment.
+Welcome! This is an index of all repositories I have completed including additional coding challenges. Several of these projects may have been updated since its first installment. Feel free to browse or reach out with any questions.
 
 ---
 
