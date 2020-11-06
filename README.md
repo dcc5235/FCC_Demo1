@@ -44,7 +44,7 @@ _In Progress_
 ---
 
 ## Side Projects & Articles
-Projects
+### Projects
 - API
   - [Recipe Finder](https://github.com/dcc5235/API_Demo1)
   - [Music Search](https://github.com/dcc5235/Waves_SoundBytes): _in progress_
@@ -62,6 +62,6 @@ Projects
 - [Sass](https://github.com/dcc5235/Childcare_Landing)
 - Tailwind
 
-Articles
+### Articles
 - [Medium](https://medium.com/switching-careers-to-front-end-development)
   - [_Making the Personal Decision to Switch Career Fields_](https://medium.com/switching-careers-to-front-end-development/making-the-personal-decision-to-switch-career-fields-548e093387f5)
