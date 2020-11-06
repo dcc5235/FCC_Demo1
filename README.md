@@ -2,7 +2,7 @@
 
 # Master Repository Index
 
-Welcome! This is an index of all repositories I have completed including additional coding challenges. Several of these projects may have been updated since its first installment. Feel free to browse or reach out with any questions.
+Welcome! This is an index of all repositories I have completed including additional coding challenges and articles written. Several of these projects may have been updated since its first installment. Feel free to browse or reach out with any questions.
 
 ---
 
@@ -43,8 +43,8 @@ _In Progress_
 
 ---
 
-## Side Projects
-
+## Side Projects & Articles
+Projects
 - API
   - [Recipe Finder](https://github.com/dcc5235/API_Demo1)
   - [Music Search](https://github.com/dcc5235/Waves_SoundBytes): _in progress_
@@ -61,3 +61,7 @@ _In Progress_
 - React
 - [Sass](https://github.com/dcc5235/Childcare_Landing)
 - Tailwind
+
+Articles
+- [Medium](https://medium.com/switching-careers-to-front-end-development)
+  - [_Making the Personal Decision to Switch Career Fields_](https://medium.com/switching-careers-to-front-end-development/making-the-personal-decision-to-switch-career-fields-548e093387f5)
