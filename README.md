@@ -46,13 +46,13 @@ _In Progress_
 ## Side Projects & Articles
 ### Projects
 - API
+  - [_Movie Fight_](https://github.com/dcc5235/App_Design_Patterns)
   - [Recipe Finder](https://github.com/dcc5235/API_Demo1)
   - [Music Search](https://github.com/dcc5235/Waves_SoundBytes): _in progress_
 - Bootstrap & jQuery
 - [CSS Grids](https://github.com/dcc5235/Grid_Homes)
 - [Flexbox](https://github.com/dcc5235/Flex_Reviews)
 - JavaScript
-  - [_Movie Fight_](https://github.com/dcc5235/App_Design_Patterns)
   - [_Timer_](https://github.com/dcc5235/Workout_Timer)
   - [_To-Do List_](https://github.com/dcc5235/Todo_List)
   - [_NBA Scores Chart_](https://github.com/dcc5235/NBA_Scores_Chart)
