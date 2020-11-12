@@ -45,12 +45,13 @@ _In Progress_
 - [CSS Grids](https://github.com/dcc5235/Grid_Homes)
 - [Flexbox](https://github.com/dcc5235/Flex_Reviews)
 - JavaScript
-  - [_Timer_](https://github.com/dcc5235/Workout_Timer)
+  - [_Timer_](https://github.com/dcc5235/Timer)
   - [_To-Do List_](https://github.com/dcc5235/Todo_List)
   - [_NBA Scores Chart_](https://github.com/dcc5235/NBA_Scores_Chart)
   - [_World's Most Annoying Button_](https://github.com/dcc5235/Impossible_Button)
   - [_Color Picker_](https://github.com/dcc5235/Color_Picker)
   - [_Coin Game_](https://github.com/dcc5235/Coin_Game)
+- [Matter.js](https://github.com/dcc5235/Canvas_Game)
 - Paired Programming
 - React
 - [Sass](https://github.com/dcc5235/Childcare_Landing)
