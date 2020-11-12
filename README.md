@@ -15,15 +15,7 @@ Welcome! This is an index of all repositories I have completed including additio
 - [_Natural Suds Soap Landing Page_](https://github.com/dcc5235/Soap_Landing)
 - [_HTML Documentation Page_](https://github.com/dcc5235/HTML_TechnicalDoc)
 
-### JavaScript Algorithms and Data Structures [Certification](https://freecodecamp.org/certification/fcc25a75f69-d7ef-4f3f-a4bd-27119d57c426/javascript-algorithms-and-data-structures)
-- Basic JavaScript
-- ES6
-- Regular Expressions
-- Basic Data Structures
-- Basic Alogirthm Scripting
-- Object Oriented Programming
-- Functional Programming
-- Intermediate Algorithm Scripting
+### JavaScript Algorithms and Data Structures [Certification](https://freecodecamp.org/certification/fcc25a75f69-d7ef-4f3f-a4bd-27119d57c426/javascript-
 
 ### Front End Libraries Certification
 - Sass
@@ -47,7 +39,7 @@ _In Progress_
 ### Projects
 - API
   - [_Movie Fight_](https://github.com/dcc5235/App_Design_Patterns)
-  - [Recipe Finder](https://github.com/dcc5235/API_Demo1)
+  - [_Recipe Finder_](https://github.com/dcc5235/API_Demo1)
   - [Music Search](https://github.com/dcc5235/Waves_SoundBytes): _in progress_
 - Bootstrap & jQuery
 - [CSS Grids](https://github.com/dcc5235/Grid_Homes)
