@@ -15,7 +15,7 @@ Welcome! This is an index of all repositories I have completed including additio
 - [_Natural Suds Soap Landing Page_](https://github.com/dcc5235/Soap_Landing)
 - [_HTML Documentation Page_](https://github.com/dcc5235/HTML_TechnicalDoc)
 
-### JavaScript Algorithms and Data Structures [Certification](https://freecodecamp.org/certification/fcc25a75f69-d7ef-4f3f-a4bd-27119d57c426/javascript-
+### JavaScript Algorithms and Data Structures [Certification](https://freecodecamp.org/certification/fcc25a75f69-d7ef-4f3f-a4bd-27119d57c426/javascript-algorithms-and-data-structures)
 
 ### Front End Libraries Certification
 - Sass
