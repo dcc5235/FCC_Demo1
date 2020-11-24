@@ -19,29 +19,21 @@ Welcome! This is an index of all repositories I have completed including additio
 
 ### Front End Libraries Certification
 - Sass
-
-_In Progress_
 - Bootstrap
 - jQuery
+
+_In Progress_
 - React
 - Redux
 
 ---
 
-## Coding Challenges
-
-- [30 Days of JavaScript](https://github.com/dcc5235/EDM_JavaScript30): _In Progress_
-- [100 Days of Code](https://twitter.com/DanyChheang/status/1307419775992201221?s=20): _Live Tweets In Progress_
-
----
-
-## Side Projects & Articles
-### Projects
+## Projects 
 - API
   - [_Movie Fight_](https://github.com/dcc5235/App_Design_Patterns)
   - [_Recipe Finder_](https://github.com/dcc5235/API_Demo1)
   - [Music Search](https://github.com/dcc5235/Waves_SoundBytes): _in progress_
-- Bootstrap & jQuery
+- Bootstrap
 - [CSS Grids](https://github.com/dcc5235/Grid_Homes)
 - [Flexbox](https://github.com/dcc5235/Flex_Reviews)
 - JavaScript
@@ -53,12 +45,22 @@ _In Progress_
   - [_World's Most Annoying Button_](https://github.com/dcc5235/Impossible_Button)
   - [_Color Picker_](https://github.com/dcc5235/Color_Picker)
   - [_Coin Game_](https://github.com/dcc5235/Coin_Game)
+- [jQuery](https://github.com/dcc5235/jQuery)
 - [Matter](https://github.com/dcc5235/A-maze-ing_Game)
 - Paired Programming
 - React
 - [Sass](https://github.com/dcc5235/Childcare_Landing)
 - Tailwind
 
-### Articles
+---
+
+## Blog
 - [Medium](https://medium.com/switching-careers-to-front-end-development)
   - [_Making the Personal Decision to Switch Career Fields_](https://medium.com/switching-careers-to-front-end-development/making-the-personal-decision-to-switch-career-fields-548e093387f5)
+  
+---
+
+## Coding Challenges
+
+- [30 Days of JavaScript](https://github.com/dcc5235/EDM_JavaScript30): _In Progress_
+- [100 Days of Code](https://twitter.com/DanyChheang/status/1307419775992201221?s=20): _Live Tweets In Progress_
