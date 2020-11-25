@@ -37,7 +37,7 @@ _In Progress_
 - [CSS Grids](https://github.com/dcc5235/Grid_Homes)
 - [Flexbox](https://github.com/dcc5235/Flex_Reviews)
 - JavaScript
-  - [_Ecommerce Site_](https://github.com/dcc5235/Ecommerce): _in progress_
+  - [_Ecommerce Site_](https://github.com/dcc5235/EComm_Shop)
   - [_Secret Message Sharing App_](https://github.com/dcc5235/Hidden_Message)
   - [_Timer_](https://github.com/dcc5235/Timer)
   - [_To-Do List_](https://github.com/dcc5235/Todo_List)
