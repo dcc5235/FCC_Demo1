@@ -6,7 +6,7 @@ Welcome! This is an index of all repositories I have completed including additio
 
 ---
 
-## Free Code Camp Repositories and Certifications
+## Free Code Camp Projects and Certifications
 
 ### Responsive Web Design [Certification](https://www.freecodecamp.org/certification/fcc25a75f69-d7ef-4f3f-a4bd-27119d57c426/responsive-web-design)
 
