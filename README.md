@@ -47,6 +47,7 @@ _In Progress_
   - [_Coin Game_](https://github.com/dcc5235/Coin_Game)
 - [jQuery](https://github.com/dcc5235/jQuery)
 - [Matter](https://github.com/dcc5235/A-maze-ing_Game)
+- [node](https://github.com/dcc5235/HiDash)
 - Paired Programming
 - React
 - [Sass](https://github.com/dcc5235/Childcare_Landing)
