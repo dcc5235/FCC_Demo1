@@ -58,7 +58,7 @@ _In Progress_
 ## Blog
 - [Medium](https://medium.com/switching-careers-to-front-end-development)
   - [_Making the Personal Decision to Switch Career Fields_](https://medium.com/switching-careers-to-front-end-development/making-the-personal-decision-to-switch-career-fields-548e093387f5)
-  - [Front End Developer’s Toolbox](link.medium.com/Lr353NajQbb)
+  - [_Front End Developer’s Toolbox_](link.medium.com/Lr353NajQbb)
   
 ---
 
