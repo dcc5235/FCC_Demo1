@@ -32,7 +32,6 @@ _In Progress_
 - API
   - [_Movie Fight_](https://github.com/dcc5235/App_Design_Patterns)
   - [_Recipe Finder_](https://github.com/dcc5235/API_Demo1)
-  - [Music Search](https://github.com/dcc5235/Waves_SoundBytes): _in progress_
 - Bootstrap
 - [CSS Grids](https://github.com/dcc5235/Grid_Homes)
 - [Flexbox](https://github.com/dcc5235/Flex_Reviews)
@@ -63,6 +62,5 @@ _In Progress_
 ---
 
 ## Coding Challenges
-
 - [30 Days of JavaScript](https://github.com/dcc5235/EDM_JavaScript30): _In Progress_
 - [100 Days of Code](https://twitter.com/DanyChheang/status/1307419775992201221?s=20): _Live Tweets In Progress_
