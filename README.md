@@ -62,5 +62,5 @@ _In Progress_
 ---
 
 ## Coding Challenges
+- [100 Days of Code](https://twitter.com/DanyChheang/status/1307419775992201221?s=20): Follow me on [Twitter](https://twitter.com/DanyChheang) for more tech related tweets!
 - [30 Days of JavaScript](https://github.com/dcc5235/EDM_JavaScript30): _In Progress_
-- [100 Days of Code](https://twitter.com/DanyChheang/status/1307419775992201221?s=20): _Live Tweets In Progress_
