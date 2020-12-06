@@ -21,9 +21,9 @@ Welcome! This is an index of all repositories I have completed including additio
 - Sass
 - Bootstrap
 - jQuery
+- React
 
 _In Progress_
-- React
 - Redux
 
 ---
