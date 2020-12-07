@@ -47,8 +47,7 @@ _In Progress_
 - [jQuery](https://github.com/dcc5235/jQuery)
 - [Matter](https://github.com/dcc5235/A-maze-ing_Game)
 - [node](https://github.com/dcc5235/HiDash)
-- Paired Programming
-- React
+- [React](https://github.com/dcc5235/codingnexus): Team Project
 - [Sass](https://github.com/dcc5235/Childcare_Landing)
 - Tailwind
 
