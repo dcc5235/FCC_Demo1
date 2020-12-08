@@ -50,7 +50,7 @@ _In Progress_
   - [_Testing Framework_](https://github.com/dcc5235/TME)
 - [React](https://github.com/dcc5235/codingnexus): Team Project
 - [Sass](https://github.com/dcc5235/Childcare_Landing)
-- Tailwind
+- [Tailwind](https://github.com/dcc5235/Tea_Landing)
 
 ---
 
