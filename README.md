@@ -2,7 +2,7 @@
 
 # Master Repository Index
 
-Welcome! This is an index of all repositories I have completed including additional coding challenges and articles written. Several of these projects may have been updated since its first installment. Feel free to browse or reach out with any questions.
+#### Welcome! This is an index of all repositories I have completed including additional coding challenges and articles written. Several of these projects may have been updated since its first installment. Feel free to browse or reach out with any questions.
 
 ---
 
@@ -48,7 +48,9 @@ _In Progress_
 - [Matter](https://github.com/dcc5235/A-maze-ing_Game)
 - [node](https://github.com/dcc5235/HiDash)
   - [_Testing Framework_](https://github.com/dcc5235/TME)
-- [React](https://github.com/dcc5235/codingnexus): Team Project
+- React
+  - [_React Hooks_]()
+  - [_Coding Nexus Bootcamp_](https://github.com/dcc5235/codingnexus): Currently working with a team to build 
 - [Sass](https://github.com/dcc5235/Childcare_Landing)
 - [Tailwind](https://github.com/dcc5235/Tea_Landing)
 
