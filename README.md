@@ -7,6 +7,7 @@
 ---
 
 ## Free Code Camp Projects and Certifications
+Here is a list of the certifications, lessons, and projects I've completed through Free Code Camp.
 
 ### Responsive Web Design [Certification](https://www.freecodecamp.org/certification/fcc25a75f69-d7ef-4f3f-a4bd-27119d57c426/responsive-web-design)
 
@@ -65,4 +66,6 @@ I write tech-related materials to help others joining the field. You can read th
 ---
 
 ## Coding Challenges
-- [100 Days of Code](https://twitter.com/DanyChheang/status/1307419775992201221?s=20): Follow me on [Twitter](https://twitter.com/DanyChheang) for more tech related tweets!
+Follow me on [Twitter](https://twitter.com/DanyChheang) for tech-related tweets. I just completed the 100 Days of Code Challenge.
+
+- [100 Days of Code](https://twitter.com/DanyChheang/status/1307419775992201221?s=20)
