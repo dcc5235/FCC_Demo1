@@ -2,7 +2,7 @@
 
 <img src="https://images.pexels.com/photos/4439419/pexels-photo-4439419.jpeg?cs=srgb&dl=pexels-vie-studio-4439419.jpg&fm=jpg" width="75%">
 
-#### Welcome! This is an index of all the projects I have completed or am currently working on. I have also included additional coding challenges and articles written I have written. Several of these projects may have been updated since its first installment. Feel free to browse or reach out with any questions.
+Welcome! This is an index of all the projects I have completed or am currently working on. I have also included additional coding challenges and articles written I have written. Several of these projects may have been updated since its first installment. Feel free to browse or reach out with any questions.
 
 ---
 
