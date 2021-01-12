@@ -66,6 +66,7 @@ I write tech-related materials to help others joining the field. You can read th
 ---
 
 ## Coding Challenges
-Follow me on [Twitter](https://twitter.com/DanyChheang) for tech-related tweets. I just completed the 100 Days of Code Challenge.
+Follow me on [Twitter](https://twitter.com/DanyChheang) for tech-related tweets. I just completed the 100 Days of Code Challenge where I code for at least one hour every day for 100 days. I am working on completing another round.
 
 - [100 Days of Code](https://twitter.com/DanyChheang/status/1307419775992201221?s=20)
+- [100 Days of Progress](https://github.com/dcc5235/100-Days-of-Progress)
