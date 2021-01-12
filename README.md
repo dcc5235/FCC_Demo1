@@ -60,7 +60,7 @@ Completed Lessons:
 ---
 
 ## Blog
-I write tech-related materials to help others joining the field. You can read through my published work at [Medium](https://medium.com/switching-careers-to-front-end-development).
+I write tech-related materials to help others who are joining the field. You can read through my published work at [Medium](https://medium.com/switching-careers-to-front-end-development).
   - [_Making the Personal Decision to Switch Career Fields_](https://medium.com/switching-careers-to-front-end-development/making-the-personal-decision-to-switch-career-fields-548e093387f5)
   - [_Front End Developer’s Toolbox_](https://medium.com/switching-careers-to-front-end-development/front-end-developers-toolbox-da2a7c114702)
   
