@@ -46,6 +46,7 @@ Completed Lessons:
   - [_World's Most Annoying Button_](https://github.com/dcc5235/Impossible_Button)
   - [_Color Picker_](https://github.com/dcc5235/Color_Picker)
   - [_Coin Game_](https://github.com/dcc5235/Coin_Game)
+  - [_6 Vanilla JS Projects_](https://github.com/dcc5235/Mini_JavaScript_Projects)
 - [jQuery](https://github.com/dcc5235/jQuery)
 - [Matter](https://github.com/dcc5235/A-maze-ing_Game)
 - [node](https://github.com/dcc5235/HiDash)
