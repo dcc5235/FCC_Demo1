@@ -38,6 +38,7 @@ Completed Lessons:
 - [CSS Grids](https://github.com/dcc5235/Grid_Homes)
 - [Flexbox](https://github.com/dcc5235/Flex_Reviews)
 - JavaScript
+  - [_Mortar & Pestle E-commerce Site_](https://github.com/dcc5235/Portfolio)
   - [_Ecommerce Site_](https://github.com/dcc5235/EComm_Shop)
   - [_Secret Message Sharing App_](https://github.com/dcc5235/Hidden_Message)
   - [_Timer_](https://github.com/dcc5235/Timer)
@@ -55,7 +56,8 @@ Completed Lessons:
   - [_Robo Friends_](https://github.com/dcc5235/Robo_Friends)
   - [_Coding Nexus Bootcamp_](https://github.com/dcc5235/codingnexus): Currently working with a team to build 
 - [Sass](https://github.com/dcc5235/Childcare_Landing)
-- [Tailwind](https://github.com/dcc5235/Tea_Landing)
+- Tailwind
+  - [_Boba Shop_](https://github.com/dcc5235/Tea_Landing)
 
 ---
 
